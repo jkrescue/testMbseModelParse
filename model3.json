@@ -1,0 +1,8 @@
+{
+  "title": "AI Model C1",
+  "interface": ["Interface 5", "Interface 6"],
+  "metrics": ["Metric 5", "Metric 6"],
+  "description": "Model C1 is optimized for real-time data analysis in IoT environments.",
+  "version": "V3",
+  "release_date": "2024-08"
+}

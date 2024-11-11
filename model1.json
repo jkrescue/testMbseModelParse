@@ -1,0 +1,8 @@
+{
+  "title": "AI Model A1",
+  "interface": ["Interface 1", "Interface 2"],
+  "metrics": ["Metric 1", "Metric 2"],
+  "description": "This is a detailed description of Model A1's purpose and capabilities.",
+  "version": "V1",
+  "release_date": "2024-10"
+}

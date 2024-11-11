@@ -1,0 +1,8 @@
+{
+  "title": "AI Model B1",
+  "interface": ["Interface 3", "Interface 4"],
+  "metrics": ["Metric 3", "Metric 4"],
+  "description": "This model focuses on processing high-resolution images and provides advanced filtering options.",
+  "version": "V2",
+  "release_date": "2024-09"
+}
