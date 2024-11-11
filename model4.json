@@ -1,0 +1,8 @@
+{
+  "title": "AI Model D1",
+  "interface": ["Interface 7", "Interface 8"],
+  "metrics": ["Metric 7", "Metric 8"],
+  "description": "Model D1 is designed for predictive maintenance, utilizing time-series data to forecast equipment failures.",
+  "version": "V1",
+  "release_date": "2024-11"
+}
